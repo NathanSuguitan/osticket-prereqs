@@ -144,12 +144,10 @@ iv. Refresh the osTicket site in your browse, observe the changes
 &nbsp; &nbsp; i. Default email (receives email from customers)
 
 
-<img src="https://github.com/M-Bethea/osticket-prereqs/assets/139162550/ee007ffc-d4ed-473d-95c4-78ff356624a5" height="60%" width="60%" alt="osTicket Setup"/>
+![image](https://github.com/NathanSuguitan/osticket-prereqs/assets/138082246/0f2df8f3-7579-438e-a896-e9c1cd0cc0c5)
 
 
-
-
-9. From the Installation Files, download and install HeidiSQL.
+9. From the Installation Files, download and install <a href="https://www.heidisql.com/installers/HeidiSQL_12.3.0.6589_Setup.exe">HeidiSQL</a>.
 
 <img src="https://github.com/M-Bethea/osticket-prereqs/assets/139162550/9aa2f60a-034d-439d-9970-23906957b7dd" height="60%" width="60%" alt="Heidi SQL Setup"/>
 
